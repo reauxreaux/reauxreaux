@@ -1,7 +1,7 @@
 ## Hi, I'm Ro. 👋🏾
 ### Aspiring Generalist in People Ops + Culture
 **Creative mind. Tech curious. Heart-centered.**
-*Avatar by me. I'm Artois Rō/Artois in art spaces.*😉
+Avatar by me. I'm Artois Rō/Artois in art spaces.😉
 <!--
 **reauxreaux/reauxreaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
