@@ -5,7 +5,7 @@ Sometimes those things still worked. 😅
 
 As an adult, it shows up in how I sketch out possibilities, communicate the big picture, and challenge concepts and ideas.
 
-# Hi, I'm Rō (Reaux in tech spaces)👋🏾 and I'm transitioning into Tech.
+# Hi, I'm Reaux👋🏾 and I'm transitioning into Tech.
 ---
 
 🎓 I'm pursuing a **BSBA** with concentrations in **Information Technology, Data Analytics, and Project Management**, while also studying:
