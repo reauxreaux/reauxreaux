@@ -46,11 +46,7 @@ I want to build tools and spaces that help us **breathe easier, focus better, ge
 ---
 
 📍 *Pronouns: {ᔕ}ᕼᗴ/ᕼᗴᖇ*  
-👩🏾‍💻 *Tech Generalist: AI/ML • DevOps • SRE • UI/UX*  
-🎮✍🏾🎨 *Digital Creative @artoisro*
-
 Thanks for stopping by 💜  
-
 Avatar by me. I'm Artois Rō/Artois in art spaces.😉
 <!--
 **reauxreaux/reauxreaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
